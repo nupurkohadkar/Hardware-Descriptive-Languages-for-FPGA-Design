@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/Verilog/AAC2M3H1
+vAAC2M3H1_tb
+!s110 1592218297
+!i10b 1
+!s100 M7_=TF:5KHJ_kG<CV_S^A3
+I^kQm<GY36Sn_bUWE[k8JP2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1573398160
+8F:/Verilog/AAC2M3H1/AAC2M3H1_tb.vp
+FF:/Verilog/AAC2M3H1/AAC2M3H1_tb.vp
+L0 64
+Z2 OP;L;10.4a;61
+r1
+!s85 0
+31
+!s108 1592218296.000000
+!s107 F:/Verilog/AAC2M3H1/AAC2M3H1_tb.vp|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Verilog/AAC2M3H1/AAC2M3H1_tb.vp|
+!s101 -O0
+!i113 1
+Z3 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@a@a@c2@m3@h1_tb
+vFullAdd4
+!s110 1592218288
+!i10b 1
+!s100 1TBdH_9fQb2cm8Q=J?dUC1
+IGgYeHg[_Q1K=Ml_;JP1li3
+R1
+R0
+w1592218261
+8F:/Verilog/AAC2M3H1/AAC2M3H1.v
+FF:/Verilog/AAC2M3H1/AAC2M3H1.v
+L0 39
+R2
+r1
+!s85 0
+31
+!s108 1592218288.000000
+!s107 F:/Verilog/AAC2M3H1/AAC2M3H1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Verilog/AAC2M3H1/AAC2M3H1.v|
+!s101 -O0
+!i113 1
+R3
+n@full@add4

@@ -1,0 +1,60 @@
+# Reading C:/Modeltech_pe_edu_10.4a/tcl/vsim/pref.tcl
+# OpenFile F:/Verilog/AAC2M4P2/AAC2M4P2.v
+# Loading project AAC2M4P2
+# Compile of AAC2M4P2.v failed with 1 errors.
+# Compile of AAC2M4P2.v was successful.
+# Compile of AAC2M4P2_tb.vp was successful.
+vsim -gui work.AAC2M4P2_tb
+# //  ModelSim PE Student Edition 10.4a Apr  7 2015 
+# //
+# //  Copyright 1991-2015 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //  THIS DOCUMENT CONTAINS TRADE SECRETS AND COMMERCIAL OR FINANCIAL
+# //  INFORMATION THAT ARE PRIVILEGED, CONFIDENTIAL, AND EXEMPT FROM
+# //  DISCLOSURE UNDER THE FREEDOM OF INFORMATION ACT, 5 U.S.C. SECTION 552.
+# //  FURTHERMORE, THIS INFORMATION IS PROHIBITED FROM DISCLOSURE UNDER
+# //  THE TRADE SECRETS ACT, 18 U.S.C. SECTION 1905.
+# //
+# // NOT FOR CORPORATE OR PRODUCTION USE.
+# // THE ModelSim PE Student Edition IS NOT A SUPPORTED PRODUCT.
+# // FOR HIGHER EDUCATION PURPOSES ONLY
+# //
+# vsim -gui F:\Verilog\AAC2M4P2\AAC2M4P2.v 
+# Start time: 20:16:19 on Jun 15,2020
+# Loading work.AAC2M4P2_tb
+# Loading work.RAM128x32
+add wave -position end  sim:/AAC2M4P2_tb/ErrorCount
+add wave -position end  sim:/AAC2M4P2_tb/FirstError
+add wave -position end  sim:/AAC2M4P2_tb/ValidCheck
+add wave -position end  sim:/AAC2M4P2_tb/address
+add wave -position end  sim:/AAC2M4P2_tb/address_tb
+add wave -position end  sim:/AAC2M4P2_tb/address_width
+add wave -position end  sim:/AAC2M4P2_tb/clk_period
+add wave -position end  sim:/AAC2M4P2_tb/clock_tb
+add wave -position end  sim:/AAC2M4P2_tb/d_tb
+add wave -position end  sim:/AAC2M4P2_tb/data
+add wave -position end  sim:/AAC2M4P2_tb/data_width
+add wave -position end  sim:/AAC2M4P2_tb/delay
+add wave -position end  sim:/AAC2M4P2_tb/i
+add wave -position end  sim:/AAC2M4P2_tb/j
+add wave -position end  sim:/AAC2M4P2_tb/k
+add wave -position end  sim:/AAC2M4P2_tb/q_tb
+add wave -position end  sim:/AAC2M4P2_tb/rom
+add wave -position end  sim:/AAC2M4P2_tb/score
+add wave -position end  sim:/AAC2M4P2_tb/testresults
+add wave -position end  sim:/AAC2M4P2_tb/vector
+add wave -position end  sim:/AAC2M4P2_tb/we_tb
+run -all
+# This simulation is complete
+# ** Note: $stop    : F:/Verilog/AAC2M4P2/AAC2M4P2_tb.vp(122)
+#    Time: 153611 ns  Iteration: 0  Instance: /AAC2M4P2_tb
+# Break in Module AAC2M4P2_tb in file F:/Verilog/AAC2M4P2/AAC2M4P2_tb.vp
+run -all
+# Break key hit
+# Simulation stop requested.
+# End time: 20:31:53 on Jun 15,2020, Elapsed time: 0:15:34
+# Errors: 0, Warnings: 0
